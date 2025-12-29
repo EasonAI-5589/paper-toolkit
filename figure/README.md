@@ -6,6 +6,7 @@ Curated resources for creating academic paper figures.
 
 | Guide | Description | File |
 |-------|-------------|------|
+| **漫画风/卡通风专题** ⭐⭐ | LLM漫画风框架图完整教程+示例图 | [06-comic-cartoon-style.md](./notes/06-comic-cartoon-style.md) |
 | **莱昂的科研日记** ⭐ | 顶会绘图风格+色卡，按风格分类 | [05-leon-scientific-diary.md](./notes/05-leon-scientific-diary.md) |
 | **漫画风 LLM 框架图** | 手绘/卡通风格绘图指南 | [03-comic-style-llm-figure.md](./notes/03-comic-style-llm-figure.md) |
 | **Nano Banana Prompt 大全** | 分场景 Prompt 模板整理 | [04-nanobanana-prompts.md](./notes/04-nanobanana-prompts.md) |
