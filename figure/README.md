@@ -2,6 +2,17 @@
 
 Curated resources for creating academic paper figures.
 
+## Quick Navigation
+
+| Guide | Description | File |
+|-------|-------------|------|
+| **漫画风 LLM 框架图** | 手绘/卡通风格绘图指南 | [03-comic-style-llm-figure.md](./notes/03-comic-style-llm-figure.md) |
+| **Nano Banana Prompt 大全** | 分场景 Prompt 模板整理 | [04-nanobanana-prompts.md](./notes/04-nanobanana-prompts.md) |
+| **Gemini 科研图流程** | 一键三步走教程 | [01-gemini-scientific-figure-workflow.md](./notes/01-gemini-scientific-figure-workflow.md) |
+| **GPT-4o 论文配图** | Method 描述直出配图 | [02-gpt4o-paper-figure.md](./notes/02-gpt4o-paper-figure.md) |
+
+---
+
 ## AI Tools
 
 ### Nano Banana Pro (Recommended)
@@ -51,6 +62,19 @@ OpenAI's multimodal model for figure generation.
 | [如何拷打AI绘制科研流程图框架](https://www.xiaohongshu.com/explore/6825f04d000000000f03a2ce) | AI流程图 | 2.6k likes, 3.2k saves |
 | [免费AI生图王Zimage](https://www.xiaohongshu.com/explore/69316f1c000000001e0340eb) | 媲美nanobanana | 4.8k likes, 3.1k saves |
 | [AI图像转矢量图](https://www.xiaohongshu.com/explore/69269da2000000001b03273b) | 一步法 | 3.3k likes, 5k saves |
+
+### Comic/Hand-drawn Style (漫画风/手绘风) ⭐ NEW
+
+专门适合 LLM 论文的漫画风、手绘风格框架图。详细指南见 [03-comic-style-llm-figure.md](./notes/03-comic-style-llm-figure.md)
+
+| Resource | Author | Engagement |
+|----------|--------|------------|
+| [如何绘制LLM漫画风框架图](https://www.xiaohongshu.com/explore/684c86fe0000000012038b8e) | 莱昂的科研日记 | 1.7k likes, 2.4k saves |
+| [卡通风的大模型综述绘图](https://www.xiaohongshu.com/explore/68580c7d000000001201fe3e) | 莱昂的科研日记 | 614 likes, 1k saves |
+| [Multi-Agent手绘风画法](https://www.xiaohongshu.com/explore/6859c45a000000001203e4cb) | 莱昂的科研日记 | 405 likes, 504 saves |
+| [田渊栋力荐：论文变漫画](https://www.xiaohongshu.com/explore/692409e3000000000d03685d) | 量子位 | 2.4k likes, 2.1k saves |
+| [漫画风综述框架图](https://www.xiaohongshu.com/explore/68e5261c0000000003003cf9) | 一只佳佳怪 | 559 likes, 724 saves |
+| [漫画风框架图PPT模版](https://www.xiaohongshu.com/explore/693cade3000000001e031b07) | 一只佳佳怪 | 155 likes, 173 saves |
 
 ---
 
