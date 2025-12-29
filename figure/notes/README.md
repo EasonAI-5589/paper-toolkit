@@ -12,6 +12,7 @@ Curated notes from Xiaohongshu, converted to markdown for offline reading.
 | 04 | [CNS Figure 配色](./04-cns-figure-color-scheme.md) | @科研百味 | 7.5k likes, 11.1k saves |
 | 05 | [NanoBanana 完全使用手册](./05-nanobanana-complete-guide.md) | @小白姐姐工作室 | 4.3k likes, 6.2k saves |
 | 06 | [Nano Banana 2 测试](./06-nanobanana2-test.md) | @陈生2.0 | 35.8k likes, 21.9k saves |
+| 07 | [漫画风 LLM 框架图专题](./07-comic-style-llm-framework.md) | 综合整理 | - |
 
 ## Categories
 
@@ -24,6 +25,9 @@ Curated notes from Xiaohongshu, converted to markdown for offline reading.
 ### Color Schemes
 - [03 - Applied Energy](./03-top-journal-color-scheme-20.md) - Top journal color scheme (IF 10.1)
 - [04 - CNS Colors](./04-cns-figure-color-scheme.md) - Cell/Nature/Science figure colors
+
+### Comic Style (漫画风)
+- [07 - 漫画风专题](./07-comic-style-llm-framework.md) - LLM/Agent 框架图漫画风格指南
 
 ## Quick Color Reference
 
