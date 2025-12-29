@@ -6,6 +6,7 @@ Curated resources for creating academic paper figures.
 
 | Guide | Description | File |
 |-------|-------------|------|
+| **莱昂的科研日记** ⭐ | 顶会绘图风格+色卡，按风格分类 | [05-leon-scientific-diary.md](./notes/05-leon-scientific-diary.md) |
 | **漫画风 LLM 框架图** | 手绘/卡通风格绘图指南 | [03-comic-style-llm-figure.md](./notes/03-comic-style-llm-figure.md) |
 | **Nano Banana Prompt 大全** | 分场景 Prompt 模板整理 | [04-nanobanana-prompts.md](./notes/04-nanobanana-prompts.md) |
 | **Gemini 科研图流程** | 一键三步走教程 | [01-gemini-scientific-figure-workflow.md](./notes/01-gemini-scientific-figure-workflow.md) |
